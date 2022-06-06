@@ -17,26 +17,27 @@ no seriously just take a look at my interests down there...
 | Catagory | Tools | Languages |
 |-----|-------|----------|
 | Frontend | React(Next,Gatsby),Vue,Angular,Tailwind,State Management (Redux,Provider) | Javascript,CSS,HTML|
-| Backend | Django,FastAPI,Node (fastify),PHP,Firebase,Supabase,CMS(Graphcms,Contentful) | Python, Javascript,PHP |
+| Backend | Django,FastAPI,Node (fastify),PHP,Firebase,Supabase,CMSs(Graphcms,Contentful) | Python, Javascript,PHP |
 | Linux | Vim,Ansible,Scripting for automation,Docker | Lua,Python,Bash |
-| Networking | Splunk,Cisco routers configuration | none |
+| Networking | Splunk,Cisco routers configuration | mostly DoS (domain specific languages) |
 
 ## interests
 - Web development (not web3 however)
 - Network infrastuctures (3G - 4G - 5G...)
+- Cloud Computing (these things are expensive :D )
 - Cyber Security (because every developer should at least have a sense of security)
 - Data science (forign area for me)
 - Linux kernel development (or OS development in general)
-- Developing CLI application (want to get into this so bad 😧
+- Developing CLI application (want to get into this so bad 😧)
 - VIM (for some reason)
 - Psychology
 - Tea 😅
 
 ## other stuff
-🧠 I'm currently learning:
-- cloud computing tools (Azure)
-- Cli Applications
-- Splunk (which Apparently is a powerful thing 😨 )
+🧠 I Like to Collaborate on:
+- Mainly programming stuff (preferable something from the top skills)
+- writing docs (for some reason it feels satisfiying)
+- exciting ideas
 
 💬 Ask me about:
 - Anything related to web development
@@ -46,6 +47,6 @@ no seriously just take a look at my interests down there...
 ⚡️ Fun facts:
 - I started learning programming with VB and JAVA
 - I had an intrest in UI/UX, (which if you are in that field, mad respect to you)
-- I usually like to hang out during coding sessions
+- I usually like to hang out during coding sessions and LOVE peer programming
 - Apparently I have social media anxiety ( which is fear of posting content on social media...)
 
